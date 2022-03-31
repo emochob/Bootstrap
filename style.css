@@ -1,0 +1,195 @@
+#monConteneur {
+    width:100%;
+    height: 100%;
+    margin-top: 20px;
+}
+
+#eub {
+    height: 90px;
+    border-radius: 1%;
+    background-color: rgb(231, 231, 231);
+    margin-bottom: 10px;
+}
+
+
+.col {
+    height: 400px;
+    border-radius: 1%;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: white;
+}
+
+#oui {
+    height: 350px;
+    background: url(/fleur.jpg);
+    border-radius: 1%;
+    margin-top: 50px;
+}
+
+#non{
+    background-color: white;
+    border-radius: 1%;
+}
+
+#bof{
+    background-color: white;
+    border-radius: 1%;
+}
+
+#ouais{
+    background-color: white;
+    border-radius: 1%;
+}
+
+#a {
+    background: url(/clebs.jpg);
+    color:white;
+    border-radius: 1%;
+    
+}
+
+#b{
+    background: url(/poulet.jpg);
+    color:white;
+    border-radius: 1%;
+}
+
+#c{
+    background: url(/talon.jpg);
+    color:white;
+    border-radius: 1%;
+}
+
+#d{
+    background: url(/sucre.jpg);
+    color:white;
+    border-radius: 1%;
+}
+
+#e{
+    background: url(/voiture.jpg);
+    color:white;
+    border-radius: 1%;
+}
+
+#f{
+    background: url(/piaf.jpg);
+    color:white;
+    border-radius: 1%;
+}
+
+.bas {
+    height: 140px;
+    width: 80px;
+    border-radius: 1%;
+    text-align: center;
+}
+
+
+
+p {
+    font-size: 50px;
+}
+
+#jaune {
+    height: 600px;
+   
+}
+
+#gris {
+    height: 900px;
+    
+}
+
+.un {
+    height: 550px;
+    display: flex;
+   flex-direction: column;
+   background-color: rgb(255, 222, 180);
+   border-radius: 1%;
+}
+
+.cont {
+    display: flex;
+    
+}
+
+#bob {
+    background-color: rgb(240, 240, 240);
+    border-radius: 1%;
+    height: 420px;
+    
+}
+
+#bob2 {
+    background-color: rgb(240, 240, 240);
+    border-radius: 1%;
+    height: 450px;
+    margin-bottom: 30px;
+    
+}
+
+.fin {
+    height: 160px;
+}
+
+.semi {
+    height: 170px;
+}
+
+.final {
+    height: 180px;
+}
+
+.tex {
+    height: 160px;
+}
+
+.clair {
+    height: 270px;
+  margin-top: 100px;
+  border-radius: 1%;
+  text-align: center;
+}
+
+#bas {
+    border: 1px white;
+}
+
+#invi {
+    background-color: rgb(240, 240, 240);
+    border: 1px solid rgb(240, 240, 240) ;
+}
+
+.mini {
+    height: 80px;
+    border-radius: 1%;
+    border:1px solid lightgrey;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+#noir{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+
+p1{
+    font-size: 15px;
+}
+
+h1{
+    margin-top: 25px;
+}
+
+#entre{
+    color:rgb(187, 50, 91);
+}
+
+a3{
+    position:absolute;
+    top:20px;
+}
